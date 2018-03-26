@@ -5,7 +5,9 @@
   shell_exec($x);
   system($x);
   exec($x);
-  echo $x . 'ay';
   echo $x;
+  shell_exec($x);
+  system($x);
+  exec($x);
 
 ?>
