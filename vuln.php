@@ -4,6 +4,4 @@
 
   shell_exec($x);
 
-  echo $x;
-
 ?>
